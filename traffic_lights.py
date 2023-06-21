@@ -17,6 +17,7 @@ myCanvas.create_rectangle(100, 50, 200, 350, fill="#4ea6a1", width=2)
 #Define Functions
 a = 10
 
+
 while True:
     def green():
         for i in range(a):
